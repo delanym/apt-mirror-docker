@@ -15,8 +15,8 @@ set http_proxy        127.0.0.1:3128
 set proxy_user        user
 set proxy_password    password
 
-deb http://us.archive.ubuntu.com/ubuntu jammy main restricted universe multiverse
-deb http://us.archive.ubuntu.com/ubuntu jammy-security main restricted universe multiverse
-deb http://us.archive.ubuntu.com/ubuntu jammy-updates main restricted universe multiverse
-deb http://us.archive.ubuntu.com/ubuntu jammy-backports main restricted universe multiverse
+deb http://us.archive.ubuntu.com/ubuntu noble main restricted universe multiverse
+deb http://us.archive.ubuntu.com/ubuntu noble-security main restricted universe multiverse
+deb http://us.archive.ubuntu.com/ubuntu noble-updates main restricted universe multiverse
+deb http://us.archive.ubuntu.com/ubuntu noble-backports main restricted universe multiverse
 clean http://us.archive.ubuntu.com/ubuntu
